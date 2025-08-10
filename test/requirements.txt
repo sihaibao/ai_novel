@@ -1,0 +1,4 @@
+dashscope
+requests
+python-dotenv
+openai
